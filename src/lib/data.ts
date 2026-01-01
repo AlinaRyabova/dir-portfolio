@@ -8,8 +8,8 @@ import {
 } from "lucide-react";
 
 export const SOCIALS_DATA = {
-  linkedin: "https://www.linkedin.com/in/alina-riabova",
-  telegram: "https://t.me/alina_r",
+  linkedin: "https://www.linkedin.com/in/alina-ryabova",
+  telegram: "https://t.me/R_Alina_V",
   email: "mailto:alinavr7@gmail.com",
   cv: "/cv.pdf",
 };
